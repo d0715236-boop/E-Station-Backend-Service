@@ -1,2 +1,20 @@
-# E-Station-Backend-Service
-E-Station Backend Service
+# E-Station Backend Service ⚡️
+
+Это серверное приложение на языке **Go**, разработанное специально для поддержки экосистемы проекта **E-Station**.
+
+## О проекте
+Приложение обеспечивает быструю и эффективную работу с данными зарядных станций для электромобилей. Основная цель — синхронизация данных с веб-платформой.
+
+🔗 **Официальный сайт:** [https://e-station.tech/](https://e-station.tech/)
+
+## Технологии
+* **Language:** Go (Golang)
+* **Framework:** Gin Gonic
+* **API Style:** REST
+
+## Как запустить
+
+1. Убедитесь, что у вас установлен Go (версии 1.20+).
+2. Склонируйте репозиторий:
+   ```bash
+   git clone https://github.com/d0715236-boop/E-Station-Backend-Service.git
